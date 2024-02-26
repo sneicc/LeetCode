@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the Difference of Two Arrays", "Find the Difference of Two Arrays\Find the Difference of Two Arrays.csproj", "{C635AE4D-0D0A-4B55-AF1F-C74613329357}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unique Number of Occurrences", "Unique Number of Occurrences\Unique Number of Occurrences.csproj", "{3F97F343-80D6-48C6-B99B-214BB3E06D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determine if Two Strings Are Close", "Determine if Two Strings Are Close\Determine if Two Strings Are Close.csproj", "{A18F4995-B771-4796-8E15-87C9A465EFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Row and Column Pairs", "Equal Row and Column Pairs\Equal Row and Column Pairs.csproj", "{6506BE67-5E95-47DB-A982-B5D20ACEFB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C635AE4D-0D0A-4B55-AF1F-C74613329357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C635AE4D-0D0A-4B55-AF1F-C74613329357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C635AE4D-0D0A-4B55-AF1F-C74613329357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C635AE4D-0D0A-4B55-AF1F-C74613329357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F97F343-80D6-48C6-B99B-214BB3E06D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F97F343-80D6-48C6-B99B-214BB3E06D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F97F343-80D6-48C6-B99B-214BB3E06D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F97F343-80D6-48C6-B99B-214BB3E06D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18F4995-B771-4796-8E15-87C9A465EFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18F4995-B771-4796-8E15-87C9A465EFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18F4995-B771-4796-8E15-87C9A465EFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18F4995-B771-4796-8E15-87C9A465EFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6506BE67-5E95-47DB-A982-B5D20ACEFB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6506BE67-5E95-47DB-A982-B5D20ACEFB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6506BE67-5E95-47DB-A982-B5D20ACEFB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6506BE67-5E95-47DB-A982-B5D20ACEFB00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C9D5C5-D4FC-4267-B338-E85D3CE7BCFF}
+	EndGlobalSection
+EndGlobal
