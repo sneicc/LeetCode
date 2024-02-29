@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delete the Middle Node of a Linked List", "Delete the Middle Node of a Linked List\Delete the Middle Node of a Linked List.csproj", "{410767BB-EF7D-426C-9B0A-4734ED447FE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Linked List", "Reverse Linked List\Reverse Linked List.csproj", "{184BA3C8-8F0A-48D2-AE55-CFB6D4E923BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Even Linked List", "Odd Even Linked List\Odd Even Linked List.csproj", "{54C7C22D-A80B-4AAC-8288-C4307FC7EAFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Twin Sum of a Linked List", "Maximum Twin Sum of a Linked List\Maximum Twin Sum of a Linked List.csproj", "{016A805A-8E83-4842-AACB-D32470229379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410767BB-EF7D-426C-9B0A-4734ED447FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410767BB-EF7D-426C-9B0A-4734ED447FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410767BB-EF7D-426C-9B0A-4734ED447FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410767BB-EF7D-426C-9B0A-4734ED447FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184BA3C8-8F0A-48D2-AE55-CFB6D4E923BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184BA3C8-8F0A-48D2-AE55-CFB6D4E923BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184BA3C8-8F0A-48D2-AE55-CFB6D4E923BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184BA3C8-8F0A-48D2-AE55-CFB6D4E923BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C7C22D-A80B-4AAC-8288-C4307FC7EAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C7C22D-A80B-4AAC-8288-C4307FC7EAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C7C22D-A80B-4AAC-8288-C4307FC7EAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C7C22D-A80B-4AAC-8288-C4307FC7EAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016A805A-8E83-4842-AACB-D32470229379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016A805A-8E83-4842-AACB-D32470229379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016A805A-8E83-4842-AACB-D32470229379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016A805A-8E83-4842-AACB-D32470229379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4420DA1F-76BD-42B6-8465-E0696A3A99BE}
+	EndGlobalSection
+EndGlobal
