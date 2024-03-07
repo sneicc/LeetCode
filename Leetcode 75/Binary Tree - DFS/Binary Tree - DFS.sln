@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Depth of Binary Tree", "Maximum Depth of Binary Tree\Maximum Depth of Binary Tree.csproj", "{3F94AF9F-D8AE-4274-B73D-963F949F41D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leaf-Similar Trees", "Leaf-Similar Trees\Leaf-Similar Trees.csproj", "{39A35039-DDAA-45CE-A52E-9E0BAF4C644F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count Good Nodes in Binary Tree", "Count Good Nodes in Binary Tree\Count Good Nodes in Binary Tree.csproj", "{D8E0A7DE-094D-44A7-AE08-E8E72A7C8966}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Path Sum III", "Path Sum III\Path Sum III.csproj", "{F651A25D-CD9B-4142-A2E9-E343F2643816}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest ZigZag Path in a Binary Tree", "Longest ZigZag Path in a Binary Tree\Longest ZigZag Path in a Binary Tree.csproj", "{6DCBC332-649D-48B0-ACDC-A1A39A51DAE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lowest Common Ancestor of a Binary Tree", "Lowest Common Ancestor of a Binary Tree\Lowest Common Ancestor of a Binary Tree.csproj", "{43EFBA22-D4A9-4130-B73B-2AAAACE53317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F94AF9F-D8AE-4274-B73D-963F949F41D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F94AF9F-D8AE-4274-B73D-963F949F41D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F94AF9F-D8AE-4274-B73D-963F949F41D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F94AF9F-D8AE-4274-B73D-963F949F41D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A35039-DDAA-45CE-A52E-9E0BAF4C644F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A35039-DDAA-45CE-A52E-9E0BAF4C644F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A35039-DDAA-45CE-A52E-9E0BAF4C644F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A35039-DDAA-45CE-A52E-9E0BAF4C644F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E0A7DE-094D-44A7-AE08-E8E72A7C8966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E0A7DE-094D-44A7-AE08-E8E72A7C8966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E0A7DE-094D-44A7-AE08-E8E72A7C8966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E0A7DE-094D-44A7-AE08-E8E72A7C8966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F651A25D-CD9B-4142-A2E9-E343F2643816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F651A25D-CD9B-4142-A2E9-E343F2643816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F651A25D-CD9B-4142-A2E9-E343F2643816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F651A25D-CD9B-4142-A2E9-E343F2643816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCBC332-649D-48B0-ACDC-A1A39A51DAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCBC332-649D-48B0-ACDC-A1A39A51DAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCBC332-649D-48B0-ACDC-A1A39A51DAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCBC332-649D-48B0-ACDC-A1A39A51DAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EFBA22-D4A9-4130-B73B-2AAAACE53317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EFBA22-D4A9-4130-B73B-2AAAACE53317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EFBA22-D4A9-4130-B73B-2AAAACE53317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EFBA22-D4A9-4130-B73B-2AAAACE53317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612B7A87-C8B1-4635-BECC-29D12A0A9BAA}
+	EndGlobalSection
+EndGlobal
