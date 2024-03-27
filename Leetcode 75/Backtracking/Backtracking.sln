@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Letter Combinations of a Phone Number", "Letter Combinations of a Phone Number\Letter Combinations of a Phone Number.csproj", "{FB5097F5-0ADA-464C-AC28-1D15B598972A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combination Sum III", "Combination Sum III\Combination Sum III.csproj", "{686222F3-603A-44DF-85C9-C92565E60C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5097F5-0ADA-464C-AC28-1D15B598972A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5097F5-0ADA-464C-AC28-1D15B598972A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5097F5-0ADA-464C-AC28-1D15B598972A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5097F5-0ADA-464C-AC28-1D15B598972A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686222F3-603A-44DF-85C9-C92565E60C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686222F3-603A-44DF-85C9-C92565E60C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686222F3-603A-44DF-85C9-C92565E60C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686222F3-603A-44DF-85C9-C92565E60C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C772CF2-BD04-483B-AAE3-B46A0F61EC51}
+	EndGlobalSection
+EndGlobal
